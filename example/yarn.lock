@@ -4322,7 +4322,7 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-liowebrtc@^0.2.8:
+liowebrtc@0.2.12:
   version "0.2.12"
   resolved "https://registry.yarnpkg.com/liowebrtc/-/liowebrtc-0.2.12.tgz#7509712bcb24ed4cfcfdf4d7c8c2d7aef886c89e"
   dependencies:
@@ -4567,8 +4567,8 @@ merge-descriptors@1.0.1:
   resolved "https://registry.yarnpkg.com/merge-descriptors/-/merge-descriptors-1.0.1.tgz#b00aaa556dd8b44568150ec9d1b953f3f90cbb61"
 
 merge@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.0.tgz#7531e39d4949c281a66b8c5a6e0265e8b05894da"
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.1.tgz#38bebf80c3220a8a487b6fcfb3941bb11720c145"
 
 methods@~1.1.2:
   version "1.1.2"
@@ -5822,9 +5822,9 @@ react-error-overlay@^4.0.1:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-4.0.1.tgz#417addb0814a90f3a7082eacba7cee588d00da89"
 
 "react-liowebrtc@link:..":
-  version "1.2.3"
+  version "1.2.6"
   dependencies:
-    liowebrtc "^0.2.8"
+    liowebrtc "0.2.12"
 
 react-scripts@^1.1.4:
   version "1.1.5"
